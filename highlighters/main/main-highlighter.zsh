@@ -52,7 +52,7 @@
 : ${ZSH_HIGHLIGHT_STYLES[assign]:=none}
 : ${ZSH_HIGHLIGHT_STYLES[redirection]:=none}
 : ${ZSH_HIGHLIGHT_STYLES[comment]:=fg=black,bold}
-: ${ZSH_HIGHLIGHT_STYLES[arg0]:=fg=green}
+: ${ZSH_HIGHLIGHT_STYLES[arg0]:=fg=green,bold}
 
 # Whether the highlighter should be called or not.
 _zsh_highlight_highlighter_main_predicate()
